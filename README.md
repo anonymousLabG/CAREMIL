@@ -1,11 +1,18 @@
-CAREMIL: Cell AggRegation, Explainable, Multiple
+# CAREMIL: Cell AggRegation, Explainable, Multiple
 Instance Learning for Leukemia Diagnosis
 
 This repository is an official implementation of CAREMIL: Cell AggRegation, Explainable, Multiple
-Instance Learning for Leukemia Diagnosis, at Neurips 2024. 
+Instance Learning for Leukemia Diagnosis, at Neurips 2024.  We aimed to build a practical computational pipeline to help hematologists and present a new explainable model for making diagnosis using cell images.
 
-We aimed to build a practical computational pipeline to help hematologists and present a new explainable model for making diagnosis using cell images.
-<Insert figure>
+Using MIL to build an explainable model for hematologists
+
+![Morphology-MIL5](https://github.com/anonymousLabG/CAREMIL/assets/170563768/21518e2c-74de-4d7c-94e8-af49a3ab92a9)
+
+CAREMIL Model Architecture
+
+![Model Architecture](https://github.com/anonymousLabG/CAREMIL/assets/170563768/6471cbed-204e-4300-91c7-bee3491db91e)
+
+
 
 ## Requirements
 
